@@ -1,0 +1,16 @@
+.vs
+*.suo
+*.user
+.DS_Store
+bin
+obj
+packages
+TALTechChallenge.Api/bin/*
+TALTechChallenge.Api/obj/*
+TALTechChallenge.Api/Properties/PublishProfiles/*
+TALTechChallenge.Core/bin/*
+TALTechChallenge.Core/obj/*
+TALTechChallenge.Core.Services.Test/bin/*
+TALTechChallenge.Core.Services.Test/obj/*
+TALTechChallenge.Infrastructure/bin/*
+TALTechChallenge.Infrastructure/obj/*
